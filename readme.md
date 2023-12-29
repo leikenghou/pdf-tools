@@ -18,4 +18,4 @@ python main.py
 ---
 
 欢迎订阅我的B站账号😼:
-https://space.bilibili.com/32784603?spm_id_from=333.1007.0.0
+https://space.bilibili.com/32784603
